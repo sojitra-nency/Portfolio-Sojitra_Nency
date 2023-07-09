@@ -1,6 +1,7 @@
 <h1 align="center">Hi there👋, I am Nency Sojitra</h1>
 <h3 align="center">A Student exploring new technologies</h3>
-<img align="right" alt="Student Learning" width="400" src="![undraw_All_the_data_re_hh4w](https://github.com/sojitra-nency/sojitra-nency/assets/78294964/e37a42d7-f571-46a0-97fc-c61f000453c9)">
+<img align="right" alt="Student Learning" width="400" src="![undraw_All_the_data_re_hh4w](https://github.com/sojitra-nency/sojitra-nency/assets/78294964/7005ac41-6536-49a7-9fe2-cf0e7c3a8f22)
+">
 About Me![undraw_All_the_data_re_hh4w](https://github.com/sojitra-nency/sojitra-nency/assets/78294964/e37a42d7-f571-46a0-97fc-c61f000453c9)
 
 
