@@ -14,3 +14,5 @@ Email: snency16@gmail.com
 <a target="_blank" href="https://www.linkedin.com/in/sojitra-nency-3509bb220/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a target="_blank" href="https://twitter.com/NencySojitra"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sojitra-nency&show_icons=true&hide_border=true&theme=radical" alt="sojitra-nency" /></p>
