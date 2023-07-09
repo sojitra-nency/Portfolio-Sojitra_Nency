@@ -4,7 +4,7 @@
 
 **About Me**
 - I’m currently learning **Deep Learning, Computer Vision, Machine Learning, Artificial Intelligence, Image Processing, Data Analysis, and Data Science.**
-- I'm currently working on different projects 
+- I'm currently working on different projects.
 - Learning new Technologies and using it to create something creative is my passion.
 - My Portfolio https://linktr.ee/nency_sojitra
 
