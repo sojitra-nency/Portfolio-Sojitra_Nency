@@ -9,7 +9,7 @@
 - My Portfolio https://linktr.ee/nency_sojitra
 
 **📫 How to reach me**
-- prakrutipathak10@gmail.com
+- snency16@gmail.com
   
 <h3 align="center">Connect with me:</h3>
 <p align="center">
