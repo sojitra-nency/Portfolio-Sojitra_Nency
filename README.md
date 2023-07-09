@@ -1,7 +1,8 @@
 <h1 align="center">Hi there👋, I am Nency Sojitra</h1>
 <h3 align="center">A Student exploring new technologies</h3>
-<img align="right" alt="Student Learning" width="400" src="file:///C:/Users/Nency/Downloads/undraw_all_the_data_re_hh4w.svg">
-About Me
+<img align="right" alt="Student Learning" width="400" src="![undraw_All_the_data_re_hh4w](https://github.com/sojitra-nency/sojitra-nency/assets/78294964/e37a42d7-f571-46a0-97fc-c61f000453c9)">
+About Me![undraw_All_the_data_re_hh4w](https://github.com/sojitra-nency/sojitra-nency/assets/78294964/e37a42d7-f571-46a0-97fc-c61f000453c9)
+
 
 I’m currently learning Machine Learning, Artificial Intelligence, Computer Vision, Image Processing, Data Analysis, and Data Science
 I'm passionate about coding and always eager to learn new skills
