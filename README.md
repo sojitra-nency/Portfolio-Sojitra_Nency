@@ -1,15 +1,16 @@
 <h1 align="center">Hi there👋, I am Nency Sojitra</h1>
-<h3 align="center">A Student exploring new technologies</h3>
-<div align="center">
-  <img src="https://github.com/sojitra-nency/sojitra-nency/blob/main/assets/78294964/e37a42d7-f571-46a0-97fc-c61f000453c9.svg" alt="About Me" width="300px">
-</div>
-<p align="center">
-  I’m currently learning Machine Learning, Artificial Intelligence, Computer Vision, Image Processing, Data Analysis, and Data Science.
-  <br>
-  I'm passionate about coding and always eager to learn new skills.
-  <br>
-  Currently working on various projects to enhance my knowledge.
-</p>
+<h3 align="center">A CSE Student exploring new skills</h3>
+<img align="right" alt="Coding" width="400" src="https://connect.ignatiuz.com/hs-fs/hubfs/AI%20and%20Deep%20Learning.gif?width=1500&name=AI%20and%20Deep%20Learning.gif">
+
+**About Me**
+- I’m currently learning **Deep Learning, Computer Vision, Machine Learning, Artificial Intelligence, Image Processing, Data Analysis, and Data Science.**
+- I'm currently working on different projects 
+- Learning new Technologies and using it to create something creative is my passion.
+- My Portfolio https://linktr.ee/nency_sojitra
+
+**📫 How to reach me**
+- prakrutipathak10@gmail.com
+  
 <h3 align="center">Connect with me:</h3>
 <p align="center">
   <a target="_blank" href="https://www.linkedin.com/in/sojitra-nency-3509bb220/">
