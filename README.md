@@ -1,6 +1,6 @@
 <h1 align="center">Hi there👋, I am Nency Sojitra</h1>
 <h3 align="center">A Student exploring new technologies</h3>
-<img align="right" alt="Student Learning" width="400" src="https://github.com/sojitra-nency/sojitra-nency/blob/main/student-learning.svg">
+<img align="right" alt="Student Learning" width="400" src="file:///C:/Users/Nency/Downloads/undraw_all_the_data_re_hh4w.svg">
 About Me
 
 I’m currently learning Machine Learning, Artificial Intelligence, Computer Vision, Image Processing, Data Analysis, and Data Science
