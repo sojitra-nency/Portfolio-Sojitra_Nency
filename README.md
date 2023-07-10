@@ -1,6 +1,7 @@
 <h1 align="center">Hi there👋, I am Nency Sojitra</h1>
 <h3 align="center">A CSE Student exploring new skills</h3>
-<img align="right" alt="Coding" width="400" src="https://connect.ignatiuz.com/hs-fs/hubfs/AI%20and%20Deep%20Learning.gif?width=1500&name=AI%20and%20Deep%20Learning.gif">
+<img align="right" alt="Coding" width="400" src="https://giphy.com/gifs/artificial-intelligence-singularity-CVtNe84hhYF9u">
+
 
 **About Me**
 - I’m currently learning **Deep Learning, Computer Vision, Machine Learning, Artificial Intelligence, Image Processing, Data Analysis, and Data Science.**
