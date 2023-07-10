@@ -1,17 +1,12 @@
-<h1 align="center">Hi there👋, I am Nency Sojitra</h1>
-<h3 align="center">A CSE Student exploring new skills</h3>
-<img align="right" alt="Coding" width="400" src="https://giphy.com/gifs/artificial-intelligence-singularity-CVtNe84hhYF9u/fullscreen">
-
+<h1 align="center">Greetings!👋</h1>
+<h3 align="center">I am Nency Sojitra, a Computer Science Engineering student with an insatiable thirst for knowledge and a passion for innovation.</h3>
 
 **About Me**
-- I’m currently learning **Deep Learning, Computer Vision, Machine Learning, Artificial Intelligence, Image Processing, Data Analysis, and Data Science.**
-- I'm currently working on different projects.
-- Learning new Technologies and using it to create something creative is my passion.
-- My Portfolio https://linktr.ee/nency_sojitra
+- 🌱 I am currently engrossed in expanding my expertise in cutting-edge fields such as Deep Learning, Computer Vision, Machine Learning, Artificial Intelligence, Image Processing, Data Analysis, and Data Science.
+- 💻 Alongside my studies, I am actively engaged in diverse projects that allow me to apply my knowledge and explore new horizons.
+- ✨ I find immense joy in acquiring new skills and harnessing the power of emerging technologies to create innovative solutions.
+- 📫 Feel free to contact me at snency16@gmail.com for any inquiries or collaborations.
 
-**📫 How to reach me**
-- snency16@gmail.com
-  
 <h3 align="center">Connect with me:</h3>
 <p align="center">
   <a target="_blank" href="https://www.linkedin.com/in/sojitra-nency-3509bb220/">
@@ -25,3 +20,5 @@
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=sojitra-nency&show_icons=true&hide_border=true&theme=radical" alt="sojitra-nency" />
 </p>
+
+I invite you to connect with me as we embark on an exciting journey to explore the limitless possibilities of technology and make a positive impact in the world.
